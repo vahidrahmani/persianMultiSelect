@@ -1,5 +1,5 @@
 {
-  "name": "@exir/ngx-multi-select",
+  "name": "ngx-multi-select",
   "version": "2.0.2",
   "peerDependencies": {
     "@angular/common": "^7.1.0",
