@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\projects",
+    "\\projects\\multi-select",
+    "\\projects\\multi-select\\src",
+    "\\projects\\multi-select\\src\\lib",
+    "\\src",
+    "\\src\\app"
+  ],
+  "SelectedNode": "\\projects\\multi-select\\src\\lib\\multiselect.component.ts",
+  "PreviewInSolutionExplorer": false
+}
